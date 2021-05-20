@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\enseignement\2020-2021\semestre2\Intergiciels_Services\SIW\Chapitres\chapitre3_Micro-services_Orchestration_SpringCloudNetflix_2020_2021\labs\TP4\siw1_tp-config\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
